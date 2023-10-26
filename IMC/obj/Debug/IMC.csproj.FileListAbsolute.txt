@@ -1,0 +1,8 @@
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\bin\Debug\IMC.exe.config
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\bin\Debug\IMC.exe
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\bin\Debug\IMC.pdb
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\obj\Debug\IMC.exe
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Estrutura de Dados\Visual Studio\IMC\obj\Debug\IMC.pdb
